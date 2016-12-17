@@ -1,0 +1,26 @@
+{
+  "name": "hayo-station-server",
+  "version": "1.0.0",
+  "description": "A resource sharing platform for minecraft and other independent game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hayo-studio/hayo-station.git"
+  },
+  "keywords": [],
+  "author": "varHarrie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hayo-studio/hayo-station/issues"
+  },
+  "homepage": "https://github.com/hayo-studio/hayo-station#readme",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-standard": "^6.2.1",
+    "eslint-plugin-promise": "^3.4.0",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
