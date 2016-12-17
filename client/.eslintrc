@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard", "standard-react"],
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "no-unused-vars": 1
+  }
+}
